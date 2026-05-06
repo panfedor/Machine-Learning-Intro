@@ -1,4 +1,4 @@
-###Introduction
+**Introduction**
 *Write your answers in the Intro section of your notebook.*
 
 To get started, please write 5 examples of the application of ML methods in life. What is the benefit of using machine learning methods in each of your examples?
